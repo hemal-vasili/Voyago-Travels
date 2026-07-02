@@ -8,7 +8,7 @@ A modern, responsive, and visually engaging travel agency website developed as p
 
 ## 📸 Preview
 
-> *(Add a screenshot of your homepage here after deployment.)*
+
 
 ![Voyago Travels Homepage](assets/images/brand/logo.png)
 
