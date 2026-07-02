@@ -126,11 +126,11 @@ All images used in this project were created or customized specifically for the 
 
 **GitHub Repository**
 
-> Add your GitHub repository link here
+https://github.com/hemal-vasili/Voyago-Travels
 
 **Netlify Website**
 
-> Add your Netlify link here
+https://voyago-travels.netlify.app/
 
 ---
 
